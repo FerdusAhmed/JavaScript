@@ -1,0 +1,21 @@
+const name = "ferdus ahmed";
+let age = 24;
+age = 25;
+console.log(name);
+console.log(age);
+
+const course = "CSE";
+const price = 1000;
+const isfree = false;
+let discount;
+const coupon = null;
+console.log(course);
+console.log(price);
+console.log(isfree);
+console.log(discount);
+console.log(coupon);
+console.log(typeof "ferdus ahmed");
+console.log(typeof 24);
+console.log(typeof true);
+console.log(typeof undefined);
+console.log(typeof null);
